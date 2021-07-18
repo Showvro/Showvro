@@ -1,19 +1,16 @@
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2> Hola amigos! I'm Showvro from Bangladesh.<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Showvro/Showvro/main/gif.gif" height= "350" width="450"/>
+
+<p> <img src="https://komarev.com/ghpvc/?username=labibkhanofficialbd&label=Profile%20views&color=0e75b6&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+    <img src="https://img.shields.io/badge/Age-21-blue"/> 
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/badge/Focus-Frontend-blue"/> 
+  </a>  
+  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/badge/Living-Khulna-blue"/> 
+  </a>
+ </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
