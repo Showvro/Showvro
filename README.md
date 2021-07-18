@@ -27,13 +27,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Showvro&include_2021=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Showvro's Github Stats">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Showvro&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Showvro/github-readme-stats)
-
-<br>
 
 ## Connect with Me:
 
@@ -56,4 +49,9 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-{"mode":"full","isActive":false}
+
+<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Showvro&include_2021=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Showvro's Github Stats">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Showvro&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Showvro/github-readme-stats)
