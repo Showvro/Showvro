@@ -1,15 +1,15 @@
-<h2> Hola amigos! I'm Showvro from Bangladesh.<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2 align="center">Hola amigos! This is Showvro from Bangladesh.<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Showvro/Showvro/main/code.gif" height= "350" width="450"/>
 <br>
 
-<p> <img src="https://komarev.com/ghpvc/?username=labibkhanofficialbd&label=Profile%20views&color=0e75b6&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/badge/Age-21-blue"/> 
+<p> <img src="https://komarev.com/ghpvc/?username=labibkhanofficialbd&label=Profile%20views&color=green&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+    <img src="https://img.shields.io/badge/Age-21-yellow"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/badge/Focus-Frontend-blue"/> 
+    <img src="https://img.shields.io/badge/Focus-Frontend-orange"/> 
   </a>  
   <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/badge/Living-Khulna-blue"/> 
+    <img src="https://img.shields.io/badge/Living-Khulna-red"/> 
   </a>
  </p>
 
@@ -28,10 +28,9 @@
 
 ## Connect with Me:
 
-[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/showvro/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/showvro)
-[![Linkedin](https://img.shields.io/badge/Linkedin-Connect%20with%20Me-blue)](https://www.linkedin.com/in/showvro/)
-[![Discord](https://img.shields.io/badge/Showvro%20JS__%239956-%235865F2)](https://discord.com/users/)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-rose)](https://www.facebook.com/showvro/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://instagram.com/showvro)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Contact%20Me-magenta)](https://www.linkedin.com/in/showvro/)
 
 ## Languages and Tools:
 
