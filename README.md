@@ -17,7 +17,7 @@
 
 - 📙 I am currently Learning at **Programming Hero**
 - 🌱 I'm currently Learning **JavaScript**
-- 🎯 2021 Goals: JavaScript, React.Js, mongoDB.
+- 🎯 2021 Goals: JavaScript, React, mongoDB.
 - ⚡ Fun Fact: I love to **Travelling**.
 - 💬 Ask me about: **My System**.
 - 📫 Mail: showvro.dev@gmail.com
