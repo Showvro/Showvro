@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Showvro/Showvro/main/code.gif" height= "350" width="450"/>
 <br>
 
-<p> <img src="https://komarev.com/ghpvc/?username=labibkhanofficialbd&label=Profile%20views&color=green&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+<p> <img src="https://komarev.com/ghpvc/?username=Showvro&label=Profile%20views&color=green&style=flat" alt="Showvro" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/badge/Age-21-yellow"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
