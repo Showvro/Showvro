@@ -20,7 +20,7 @@
 - 🎯 2021 Goals: JavaScript, React, mongoDB.
 - ⚡ Fun Fact: I love to **Travelling**.
 - 💬 Ask me about: **My System**.
-- 📫 Mail: showvro.dev@gmail.com
+- 📫 Mail: showvro1@gmail.com
 
 <br>
 <br>
