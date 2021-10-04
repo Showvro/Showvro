@@ -15,11 +15,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 📙 I am currently Learning at **Programming Hero**
-- 🌱 I'm currently Learning **JavaScript**
-- 🎯 2021 Goals: JavaScript, React, mongoDB.
-- ⚡ Fun Fact: I love to **Travelling**.
-- 💬 Ask me about: **My System**.
+- 📙 Currently Learning at **Programming Hero**
+- 🌱 Learning now **React**
+- 🎯 2021 Goals: **MERN Stack**
+- ⚡ Fun Fact: Love **Travelling**
+- 💬 Ask about my **Learning System**
 - 📫 Mail: showvro1@gmail.com
 
 <br>
