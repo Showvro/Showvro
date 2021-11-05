@@ -30,10 +30,8 @@
 
 ### Skills & Experiance:
 
-✅ HTML5 / CSS3 / Tailwind / Bootstrap <br>
-✅ JavaScript <br>
-✅ React JS <br>
-✅ Node JS and mongoDB <br>
+✅ MERN Stack <br>
+✅ Bootstrap / Tailwind / MAtrual UI
 ✅ Figma / Photoshop<br>
 
 ### Language and Tools:
