@@ -31,7 +31,7 @@
 ### Skills & Experiance:
 
 ✅ MERN Stack <br>
-✅ Bootstrap / Tailwind / MAtrual UI
+✅ Bootstrap / Tailwind / MAtrual UI <br>
 ✅ Figma / Photoshop<br>
 
 ### Language and Tools:
