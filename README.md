@@ -13,7 +13,7 @@
 
 - 📙 I am Learning at **Programming Hero**
 - 🌱 I'm currently deeply learning **MERN Stack**
-- 💻 Most used line of code `console.log()`
+- ⌨️ Most used line of code `console.log()`
 - 🥅 2021 Goals: Learn **MERN Stack**
 - 📧 Mail: showvro1@gmail.com
 
