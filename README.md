@@ -12,7 +12,7 @@
 ## About Me:
 
 - 📙 I am Learning at **Udemy**
-- 🌱 I'm currently getting `JavaScript` advanced
+- 🌱 Currently learning advanced `JavaScript`
 - ⌨️ Most used line of code `console.log()`
 - 🥅 2022 Goals: **MERN Stack**
 - 📧 Mail: showvro.roy@gmail.com
