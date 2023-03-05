@@ -12,7 +12,7 @@
 ## About Me:
 
 - 📙 I am Learning at **Udemy**
-- 🌱 Currently learning advanced `JavaScript`
+- 🌱 Currently learning advanced `Redux Core Concepts`
 - ⌨️ Most used line of code `console.log()`
 - 🥅 2022 Goals: **MERN Stack**
 - 📧 Mail: showvro.roy@gmail.com
