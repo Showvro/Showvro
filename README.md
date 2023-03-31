@@ -14,7 +14,7 @@
 - 📙 I am Learning at **Udemy**
 - 🌱 Currently learning advanced `Redux Core Concepts`
 - ⌨️ Most used line of code `console.log()`
-- 🥅 2022 Goals: **MERN Stack**
+- 🥅 2023 Goal: **Get hired by an International Company**
 - 📧 Mail: showvro.roy@gmail.com
 
 ## Connect with me:
